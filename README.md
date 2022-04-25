@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sauravpareek
 - 👀 I’m interested in Building ML models
-- 🌱 I’m currently learning Deep Learning and Oracle Siebel CRM.
+- 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on ML and DL Projects.
 - 📫 You can reach me at sauravpareek02@gmail.com
 
