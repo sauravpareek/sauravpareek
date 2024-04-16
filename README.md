@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sauravpareek
-- 👀 I’m interested in Building ML models
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on ML and DL Projects.
+- 👀 I’m a Data Engineer
+- 🌱 I’m currently working on building Robust and Scalable Data Pipelines.
+- 💞️ I’m looking to collaborate on Data Engineering Projects.
 - 📫 You can reach me at sauravpareek02@gmail.com
 
 <!---
